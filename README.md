@@ -1,1 +1,1 @@
-Contains writing samples (slides, abstracts, posters, etc.).
+Contains writing samples (slides, abstracts, manuscripts, posters, etc.).
